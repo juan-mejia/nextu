@@ -1,0 +1,18 @@
+<svg width="177" height="163" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="165" width="179" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <ellipse ry="22.5" rx="22.5" id="svg_9" cy="66.783333" cx="26" stroke-width="1.5" stroke="#1A333F" fill="#1d4f56"/>
+  <ellipse ry="22.5" rx="22.5" id="svg_7" cy="136.783333" cx="120" stroke-width="1.5" stroke="#1A333F" fill="#1d4f56"/>
+  <ellipse ry="43" rx="43" id="svg_10" cy="47.283333" cx="128.5" stroke-width="1.5" stroke="#1A333F" fill="#1d4f56"/>
+  <ellipse ry="75.5" rx="75.5" id="svg_2" cy="79.783333" cx="91" stroke-width="1.5" stroke="#1A333F" fill="#0E353B"/>
+  <text transform="matrix(3.14506, 0, 0, 3.14506, -563.578, -390.597)" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_1" y="157.246263" x="191.974781" stroke-width="0" stroke="#000" fill="#007f3f">JM</text>
+ </g>
+</svg>
